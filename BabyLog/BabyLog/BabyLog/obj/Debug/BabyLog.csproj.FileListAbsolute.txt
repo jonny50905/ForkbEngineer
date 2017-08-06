@@ -1,0 +1,8 @@
+D:\tmp\BabyLog\BabyLog\BabyLog\bin\Debug\BabyLog.dll
+D:\tmp\BabyLog\BabyLog\BabyLog\bin\Debug\BabyLog.pdb
+D:\tmp\BabyLog\BabyLog\BabyLog\obj\Debug\BabyLog.dll
+D:\tmp\BabyLog\BabyLog\BabyLog\obj\Debug\BabyLog.pdb
+D:\tmp\BabyLog\BabyLog\BabyLog\obj\Debug\BabyLog.dll.mdb
+D:\tmp\BabyLog\BabyLog\BabyLog\bin\Debug\BabyLog.dll.mdb
+D:\tmp\BabyLog\BabyLog\BabyLog\obj\Debug\BabyLog.dll.mdb
+D:\tmp\BabyLog\BabyLog\BabyLog\bin\Debug\BabyLog.dll.mdb

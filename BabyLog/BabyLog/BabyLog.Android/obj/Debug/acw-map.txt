@@ -1,0 +1,4 @@
+BabyLog.Droid.MainActivity, BabyLog.Android;md5a908597d27139d26a175e639e4343536.MainActivity
+BabyLog.Droid.MainActivity, BabyLog.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a908597d27139d26a175e639e4343536.MainActivity
+BabyLog.Droid.MainActivity;md5a908597d27139d26a175e639e4343536.MainActivity
+babylog.droid.MainActivity;md5a908597d27139d26a175e639e4343536.MainActivity
